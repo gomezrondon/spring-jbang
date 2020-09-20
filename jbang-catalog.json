@@ -1,0 +1,7 @@
+{
+  "aliases": {
+    "springjbang": {
+      "script-ref": "com/gomezrondon/springjbang/Application.java"
+    }
+  }
+}
