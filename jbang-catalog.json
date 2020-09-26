@@ -1,10 +1,11 @@
 {
   "aliases": {
-    "springjbang": {
-      "script-ref": "com/gomezrondon/springjbang/Application.java"
-    },
     "cleanyaml": {
       "script-ref": "script/jscript.java"
+    },
+    "springjbang": {
+      "script-ref": "com/gomezrondon/springjbang/Application.java"
     }
+
   }
 }
