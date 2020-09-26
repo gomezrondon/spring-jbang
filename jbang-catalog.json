@@ -1,5 +1,6 @@
 {
   "aliases": {
+    
     "cleanyaml": {
       "script-ref": "script/jscript.java"
     },
